@@ -1,4 +1,4 @@
-# M4DS_PROJECT
+# M4DS_PROJECT1
 
 Mathematics for data science (CS 427 ) course project .
 
